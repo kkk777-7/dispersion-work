@@ -1,4 +1,4 @@
-module github.com/kkk777-7/proglog
+module github.com/kkk777-7/dispersion
 
 go 1.19
 

@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/kkk777-7/proglog/chap1/internal/server"
+	"github.com/kkk777-7/dispersion/chap1/internal/server"
 )
 
 func main() {
